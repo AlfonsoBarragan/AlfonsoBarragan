@@ -1,16 +1,9 @@
 ### Hi there, I'm Alfonso 🦎
 
-![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alfonsobarragan.alfonsobarragan) ![](https://gitwar.herokuapp.com/badge?username=alfonsobarragan&style=flat&color=red)
+![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alfonsobarragan.alfonsobarragan)
 
 [![Spotify](https://novatorem.alfonsobarragan.vercel.app/api/spotify)](https://open.spotify.com/user/alfdel97)
 
-
-
-<!--
-**AlfonsoBarragan/AlfonsoBarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ## I'm investigator, developer and sometimes a funny person!
 - 🔭 I’m currently working on secret libraries 
 - 🌱 I’m currently learning about active ageing and bioinspired algorithms
@@ -97,14 +90,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## ⚡ Recent activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<br />
-<br />
 
 ## Graphic resources atributions
 
@@ -125,6 +110,3 @@ GitHub Recent Activity on Readme profile: [Link to marketplace page](https://git
 [twitter]: https://twitter.com/AlfonBarraganCa
 [linkedin]: https://www.linkedin.com/in/alfonso-barrag%C3%A1n-carmona/
 [thingiverse]: https://www.thingiverse.com/lord_of_chaos1990/designs
-
-
-<!-- START gadpp -->
