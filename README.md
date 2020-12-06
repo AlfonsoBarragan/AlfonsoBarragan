@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfonso 🦎
 
-![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alfonsobarragan.alfonsobarragan)
+![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alfonsobarragan.alfonsobarragan) ![](https://gitwar.herokuapp.com/badge?username=alfonsobarragan&style=flat&color=red)
 
 [![Spotify](https://novatorem.alfonsobarragan.vercel.app/api/spotify)](https://open.spotify.com/user/alfdel97)
 
