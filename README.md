@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <details>
     <summary>Personal projects</summary>
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="resources/propios/Galfget.svg" />](https://github.com/AlfonsoBarragan/Galfgets) ![Last release](https://img.shields.io/badge/Repo%20name-Galgets-ff065c)
+[<img align="left" alt="Visual Studio Code" width="40px" src="resources/propios/Galfget.svg" />](https://github.com/AlfonsoBarragan/Galfgets) ![Last release](https://img.shields.io/badge/Repo%20name-Galfgets-ff065c)
  ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/Galfgets)
 
 </details>
