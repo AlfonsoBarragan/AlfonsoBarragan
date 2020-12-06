@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=for-the-badge)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=alfonsobarragan.alfonsobarragan)
+
 [![Spotify](https://novatorem.alfonsobarragan.vercel.app/api/spotify)](https://open.spotify.com/user/alfdel97)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoBarragan&count_private=true&show_icons=true)](https://github-readme-stats.alfonsobarragan.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBarragan&show_icons=true&layout=compact)](https://github-readme-stats.alfonsobarragan.vercel.app/)
 
 <!--
 **AlfonsoBarragan/AlfonsoBarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 <br />
 
 ## Languages and tools
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoBarragan&count_private=true&show_icons=true)](https://github-readme-stats.alfonsobarragan.vercel.app/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBarragan&show_icons=true&layout=compact)](https://github-readme-stats.alfonsobarragan.vercel.app/)
 
 ### Programming Stuff
 
