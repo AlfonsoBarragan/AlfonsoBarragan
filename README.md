@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfonso 🦎
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=for-the-badge)
+![](https://img.shields.io/twitter/follow/AlfonBarraganCa?label=Twitter&color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 [![Spotify](https://novatorem.alfonsobarragan.vercel.app/api/spotify)](https://open.spotify.com/user/alfdel97)
 
@@ -82,9 +82,15 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-## Some projects
+### Some projects
 
-### Personal projects
+<details>
+    <summary>Personal projects</summary>
+
+[<img align="left" alt="Visual Studio Code" width="30px" src="resources/propios/Galfget.svg" />](https://github.com/AlfonsoBarragan/Galfgets) ![Last release](https://img.shields.io/badge/Repo%20name-Galgets-ff065c)
+ ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/Galfgets)
+
+</details>
 
 <br />
 <br />
