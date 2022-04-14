@@ -38,11 +38,11 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Terminal" width="26px" src="resources/externos/piton.svg" />
+<img align="left" alt="Python" width="26px" src="resources/externos/piton.svg" />
 
-<img align="left" alt="Terminal" width="26px" src="resources/externos/java.svg" />
+<img align="left" alt="Java" width="26px" src="resources/externos/java.svg" />
 
-<img align="left" alt="Terminal" width="26px" src="resources/externos/androide.svg" />
+<img align="left" alt="Android" width="26px" src="resources/externos/androide.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
@@ -80,10 +80,15 @@
 ### Some projects
 
 <details>
-    <summary>Personal projects</summary>
+    <summary> Personal Projects </summary>
 
-[<img align="left" alt="Visual Studio Code" width="40px" src="resources/propios/Galfget.svg" />](https://github.com/AlfonsoBarragan/Galfgets) ![Last release](https://img.shields.io/badge/Repo%20name-Galfgets-ff065c)
+[<img align="left" alt="Galfgets Library" width="40px" src="resources/propios/Galfget.svg" />](https://github.com/AlfonsoBarragan/Galfgets) ![Last release](https://img.shields.io/badge/Repo%20name-Galfgets-ff065c)
  ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/Galfgets)
+
+	<summary> Educational Projects </summary>	
+[<img align="left" alt="PokeBLE Libary" width="40px" src="resources/propios/ProfesorAlf.png" />](https://github.com/AlfonsoBarragan/PokeBLE) ![Last release](https://img.shields.io/badge/Repo%20name-PokeBLE-ff065c)
+ ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/PokeBLE)
+	
 
 </details>
 
