@@ -24,9 +24,9 @@
 
 ## Languages and tools
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoBarragan&count_private=true&show_icons=true)](https://github-readme-stats.alfonsobarragan.vercel.app/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfonsoBarragan&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.alfonsobarragan.vercel.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBarragan&show_icons=true&layout=compact)](https://github-readme-stats.alfonsobarragan.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBarragan&show_icons=true&layout=compact&theme=radical)](https://github-readme-stats.alfonsobarragan.vercel.app/)
 
 ### Programming Stuff
 
