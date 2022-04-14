@@ -88,7 +88,6 @@
 </details>
 
 <details>
-
 	<summary> Educational Projects </summary>	
 [<img align="left" alt="PokeBLE Libary" width="40px" src="resources/propios/ProfesorAlf.png" />](https://github.com/AlfonsoBarragan/PokeBLE) ![Last release](https://img.shields.io/badge/Repo%20name-PokeBLE-ff065c)
  ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/PokeBLE)
